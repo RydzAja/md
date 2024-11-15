@@ -8,23 +8,23 @@ const axios = require('axios');
 // Ori : @callmevinz
 
 //=== Edit Disini 🔥
-global.namabot = "AiBotzz-MD"
-global.namaowner = "Sanjaya"
+global.namabot = "RydzBotz-MD"
+global.namaowner = "Rydz"
 global.packname = "Sticker by"
-global.creator = "SanjayaAds"
-global.author = "AiBotzz-MD\n\nBot WhatsApp"
-global.wm = "AiBotzz-MD"
-global.syt = "https://www.youtube.com/@SanjayaAds"
-global.sgc = "https://chat.whatsapp.com/BhLOaPSL3SKCw9QAnudLDw"
+global.creator = "Rydz"
+global.author = "RydzBotz-MD\n\nBot WhatsApp"
+global.wm = "RydzBotz-MD"
+global.syt = "https://www.youtube.com/@RydzBotz-MD"
+global.sgc = "https://chat.whatsapp.com/KPSbU1upLxp88LZQFzpnvP"
 global.idgc = "120363250058335630@g.us"
-global.email = "OwnerKuu@gmail.com"
-global.sig = "https://Instagram.com/@Jayy_yete"
-global.myweb = "https://shoplinks.to/AiBotzzSH"
-global.footer_text = "© AiBotzz-MD"
-global.owner = ['62896540577165']
-global.gifin = "https://telegra.ph/file/0cf1c5039a2be1b66ef15.mp4"
-global.thumb = "https://telegra.ph/file/6b25dc6f38b32804d7e59.jpg"
-global.thumb2 = "https://telegra.ph/file/c74dda31793574f84070e.jpg"
+global.email = "ridomahgans@gmail.com"
+global.sig = "https://Instagram.com/@rydzaja"
+global.myweb = "Coming Soon"
+global.footer_text = "© RydzBotz-MD"
+global.owner = ['6281992432544']
+global.gifin = "https://files.catbox.moe/brw6yx.jpg"
+global.thumb = "https://files.catbox.moe/brw6yx.jpg"
+global.thumb2 = "https://files.catbox.moe/brw6yx.jpg"
 global.mark = "https://telegra.ph/file/9b67cb5ed0ff661027366.jpg"
 global.themeemoji = '🌐'
 
@@ -36,11 +36,11 @@ global.lakiapacewek = "Lanang" // Terserah
 // Kalo mau gak diisi juga gak papa
 
 //=== Payment 😋
-global.qris = "https://telegra.ph/file/6a367b58ed14c5009179d.jpg"
-global.pulsa = "https://telegra.ph/file/778689e2ede51180102ca.jpg"
-global.dana = "0838-3140-9855"
-global.gopay = "Gak ada"
-global.rek = "7605-0101-8289-536"
+global.qris = "https://files.catbox.moe/rjgzib.jpg"
+global.pulsa = "https://files.catbox.moe/3bqgsy.png"
+global.dana = "0812-9236-3211"
+global.gopay = "0812-9236-3211"
+global.rek = "gak ada:D"
 
 //=== Nokos Token 😱
 global.apikey ='8c3a5b302815a138d88148fa0c5916c0595bba50' 
@@ -60,7 +60,7 @@ global.APIKeys = {
 }
 
 //=== Gak Tau 🐦
-global.pairingNumber = "6283831409855"
+global.pairingNumber = "6281927032140"
 // Nomor whatsapp bot lu
 global.prefix = ['-_-'] 
 // Jangan diubah
